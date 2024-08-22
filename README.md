@@ -20,11 +20,9 @@ Installation - Clone the repository:
 git clone https://github.com/Bloodslayer7/RSA-vault.git
 cd RSA-vault
 
-# Install the required packages:
-pip install -r requirements.txt
-Run the application:
+Install the required packages: pip install -r requirements.txt
 
-python RSA_TOOL.py
+Run the application: python RSA_TOOL.py
 
 # Running the Executable (.exe)  # If you prefer to use the pre-built executable:
 
@@ -40,13 +38,21 @@ Save: The processed content will overwrite the original file.
 
 # Project Structure
 RSA-vault/
+
 │
+
 ├── main.py             # Main application file
+
 ├── rsa_keys.txt        # Placeholder for RSA keys (dynamically generated)
+
 ├── credentials.txt     # Login credentials file
+
 ├── requirements.txt    # Dependencies
+
 ├── README.md           # Project documentation
+
 └── background.png      # Background image for the GUI
+
 
 # Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
