@@ -17,7 +17,7 @@ Password Protection: During encryption, set a strong password. For decryption, e
 
 # Getting Started
 Installation - Clone the repository:
-git clone https://github.com/your-username/RSA-vault.git
+git clone https://github.com/Bloodslayer7/RSA-vault.git
 cd RSA-vault
 
 # Install the required packages:
