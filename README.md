@@ -1,6 +1,6 @@
 # RSA-Vault
 # Overview
-# RSA-Vault is a desktop application for secure RSA-based encryption and decryption of text files. Built using Python and Tkinter, the application provides a user-friendly interface for securing text content with RSA encryption. The app supports both encryption and decryption processes, ensuring data confidentiality with customizable key storage options.
+RSA-Vault is a desktop application for secure RSA-based encryption and decryption of text files. Built using Python and Tkinter, the application provides a user-friendly interface for securing text content with RSA encryption. The app supports both encryption and decryption processes, ensuring data confidentiality with customizable key storage options.
 
 # Features
 RSA Key Generation: Dynamically generates RSA keys for encryption and decryption.
